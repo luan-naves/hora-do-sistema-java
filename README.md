@@ -27,4 +27,4 @@ public class HoraDoSistema {
 Exemplo de saída
 
 A hora do sistema é
-Fri Aug 16 15:30:25 BRT 2025
+Sat Aug 16 03:37:30 GMT-03:00 2025
